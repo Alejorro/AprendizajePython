@@ -8,7 +8,6 @@ def crearArray():
     for item in coleccion:
         file.write("%s\n" % item)
         
-    
     file.close()
 
 crearArray()
