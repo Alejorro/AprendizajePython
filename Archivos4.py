@@ -14,3 +14,5 @@ def leer():
 escribir()
 time.sleep(2)
 leer()
+
+print("Esto es una prueba de como hacerte una 'mejora' xD")
